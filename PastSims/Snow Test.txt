@@ -1,0 +1,19 @@
+Snow Test
+Snow
+Animals
+=
+Rabbit
+0.0
+10
+2.0
+1
+2
+1
+=
+Plants
+=
+Tree
+50
+10.0
+2
+=

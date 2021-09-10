@@ -1,0 +1,19 @@
+RabbitLand II
+Plains
+Animals
+=
+Rabbit
+0.0
+200
+2.0
+1
+2
+3
+=
+Plants
+=
+Grass
+1200
+1.0
+3
+=

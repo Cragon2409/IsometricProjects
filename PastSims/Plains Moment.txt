@@ -1,0 +1,19 @@
+Plains Moment
+Plains
+Animals
+=
+Rabbit
+1.0
+1
+1.0
+1
+1
+1
+=
+Plants
+=
+Grass
+1
+1.0
+1
+=
